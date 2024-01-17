@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Jon Howell is a systems researcher recently focused on
+pushing functional verification towards practical
+application. [My CV is here](https://www.jonh.net/~jonh/cv/index.html).
