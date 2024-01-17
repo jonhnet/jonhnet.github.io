@@ -1,3 +1,3 @@
 Placeholder.
 
-![blue circle](blue-circle.png)
+![blue circle](/images/blue-circle.png)
